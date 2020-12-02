@@ -1,0 +1,2 @@
+rootProject.name='UI Element Visibility App'
+include ':app'
